@@ -14,7 +14,6 @@ future: true
 jailed: false
 gfm_quirks: paragraph_end
 # theme: jekyll-theme-primer
-theme: phantom
 remote_theme: pages-themes/primer
 markdown: kramdown
 kramdown:
